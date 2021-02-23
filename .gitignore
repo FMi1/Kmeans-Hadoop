@@ -1,0 +1,6 @@
+Kmeans/target/
+*.class
+*.jar
+Kmeans/.settings/
+.classpath
+Kmeans/target/classes/it/unipi/hadoop/Kmeans/KmeansCombiner.class
